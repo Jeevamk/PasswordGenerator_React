@@ -1,5 +1,4 @@
-import React, { useCallback, useEffect, useRef } from 'react'
-import { useState } from 'react'
+import React, { useCallback, useEffect, useRef ,useState } from 'react'
 
 const PasswordGenerator = () => {
     const [password, setPassword] = useState('')
